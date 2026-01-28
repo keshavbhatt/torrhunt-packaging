@@ -1,0 +1,146 @@
+# Build artifacts and compiled files
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# Package files
+*.deb
+*.rpm
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.zip
+*.appimage
+*.snap
+*.flatpak
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# Node modules (if using any build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration
+.env
+.env.local
+.env.*.local
+config.local
+
+# Snapcraft specific
+parts/
+prime/
+stage/
+*.snap
+
+# Flatpak specific
+.flatpak-builder/
+repo/
+
+# AppImage specific
+*.AppImage
+*.AppDir/
+
+# Signing keys and certificates
+*.key
+*.pem
+*.p12
+*.pfx
+*.cer
+*.crt
+*.der
+
+# Documentation build artifacts
+docs/_build/
+site/
+
+# Backup files
+*~
+\#*\#
+.\#*
