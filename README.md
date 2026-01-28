@@ -32,15 +32,18 @@ sudo snap install torrhunt
 
 ### Install via Flathub (All Linux Distributions)
 
+[![Get it on Flathub](https://flathub.org/api/badge?locale=en)](https://flathub.org/en/apps/com.ktechpit.torrhunt)
+
 ```bash
 flatpak install flathub com.ktechpit.torrhunt
 ```
 
-[View on Flathub Store](https://flathub.org/apps/details/com.ktechpit.torrhunt)
 
 ## 🪟 Windows Installation
 
-Download the Windows installer from the [Latest Release Page](https://github.com/keshavbhatt/torrhunt-packaging/releases/latest).
+[![Download for Windows](https://img.shields.io/badge/Download-Windows%20Installer-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/keshavbhatt/torrhunt-packaging/releases/download/v2.0.0/TorrHunt-Setup-v2.0.0-Win64.exe)
+
+Download the Windows installer (v2.0.0) or check the [Latest Release Page](https://github.com/keshavbhatt/torrhunt-packaging/releases/latest) for newer versions.
 
 ## 📖 About TorrHunt
 
