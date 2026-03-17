@@ -37,7 +37,26 @@ sudo snap install torrhunt
 ```bash
 flatpak install flathub com.ktechpit.torrhunt
 ```
+### Install via AUR (Arch based Linux Distributions)
 
+![AUR](https://img.shields.io/aur/version/torrhunt)
+
+TorrHunt is available in the Arch User Repository (AUR). You can install it using your preferred AUR helper:
+
+**Using yay**
+```bash
+yay -S torrhunt
+```
+
+**Using paru**
+```bash
+paru -S torrhunt
+```
+
+**Using pamac (Manjaro)**
+```bash
+pamac build torrhunt
+```
 
 ## 🪟 Windows Installation
 
