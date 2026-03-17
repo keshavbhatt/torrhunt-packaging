@@ -41,7 +41,7 @@ flatpak install flathub com.ktechpit.torrhunt
 
 ## 🪟 Windows Installation
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows%20Installer-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/keshavbhatt/torrhunt-packaging/releases/download/v2.0.0/TorrHunt-Setup-v2.0.0-Win64.exe)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows%20Installer-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/keshavbhatt/torrhunt-packaging/releases/download/v2.1.0/TorrHunt-Setup-v2.1.0-Win64.exe)
 
 Download the Windows installer (v2.0.0) or check the [Latest Release Page](https://github.com/keshavbhatt/torrhunt-packaging/releases/latest) for newer versions.
 
