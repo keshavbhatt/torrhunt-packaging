@@ -3,6 +3,9 @@
 ![License](https://img.shields.io/github/license/keshavbhatt/torrhunt-packaging)
 ![Downloads](https://img.shields.io/github/downloads/keshavbhatt/torrhunt-packaging/total)
 ![Latest Release](https://img.shields.io/github/v/release/keshavbhatt/torrhunt-packaging)
+<p align="center">
+  <img src="https://github.com/keshavbhatt/torrhunt-packaging/blob/main/images/github_banner.png?raw=true">
+</p>
 
 **TorrHunt** is a powerful, secure, and free torrent search engine and browser for Linux and Windows Desktop. Search and browse millions of torrents with an intuitive interface - your ultimate torrent finder and downloader companion.
 
